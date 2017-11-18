@@ -7,7 +7,11 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 + [How To Brew - John Palmer website](http://www.howtobrew.com/)  
 + [The Mad Fermentationist](https://www.themadfermentationist.com/)  
 + [Homebrew Academy](http://homebrewacademy.com/)  
-+ 
+
+
+## Forums  
++ [Homebrew StackExchange](https://homebrew.stackexchange.com/)
++ [Homebrew Talk](https://www.homebrewtalk.com/)  
 
 
 ## Books  
@@ -18,10 +22,15 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 by John Palmer](http://a.co/hja2qEC)  
 + [Malt: A Practical Guide from Field to Brewhouse (Brewing Elements) 
 by John Mallett](http://a.co/78wQqGI)  
-+ [For The Love of Hops: The Practical Guide to Aroma, Bitterness and the Culture of Hops (Brewing Elements) 
++ [For The Love of Hops: The Practical Guide to Aroma, Bitterness and the Culture of Hops
 by Stan Hieronymus](http://a.co/gftKwJ9)  
-+ [Yeast: The Practical Guide to Beer Fermentation (Brewing Elements) 
++ [Yeast: The Practical Guide to Beer Fermentation 
 by Chris White](http://a.co/3YeorUW)  
++ [The Oxford Companion to Beer](http://a.co/gCNw8D8)  
++ [The Complete Beer Course: Boot Camp for Beer Geeks: From Novice to Expert in Twelve Tasting Classes](http://a.co/ecIPRTw)
++ [Homebrew Beyond the Basics: All-Grain Brewing and Other Next Steps 
+by Mike Karnowski](http://a.co/dvsezdZ)  
++ [Modern Homebrew Recipes: Exploring Styles and Contemporary Techniques by Gordon Strong ](http://a.co/9OeZBkC)  
 
 ### Styles
 + [American Sour Beers by Michael Tonsmeire ](http://a.co/e5GxFQU)  
@@ -42,6 +51,8 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 ## Podcasts  
 + [Basic Brewing](http://www.basicbrewing.com/)  
 + [The Brewing Network](http://thebrewingnetwork.com/)  
++ [The Gnarly Gnome](http://www.thegnarlygnome.com/)  
++ 
 
 
 ## Videos  
@@ -54,4 +65,4 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 + [Brew Toad](https://www.brewtoad.com/)  
 + [Beersmith](http://beersmith.com/)  
 + [Brewgr](http://brewgr.com/)
-+ 
++ [Brewer's Friend](https://www.brewersfriend.com/)
