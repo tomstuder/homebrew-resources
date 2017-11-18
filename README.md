@@ -4,15 +4,18 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 ## Links  
 + [AHA](https://www.homebrewersassociation.org/)  
 + [Brewers Association](https://www.brewersassociation.org/)  
++ [Beer Judge Certification Program](https://www.bjcp.org)  
 + [How To Brew - John Palmer website](http://www.howtobrew.com/)  
 + [The Mad Fermentationist](https://www.themadfermentationist.com/)  
 + [Homebrew Academy](http://homebrewacademy.com/)  
-
++ [braukaiser.com](http://braukaiser.com/wiki/index.php?title=Braukaiser.com)  
++ [Mr. Malty](http://www.mrmalty.com/)  
++ [Maltose Falcons](https://www.maltosefalcons.com/)  
++ [The Screwy Brewer](http://www.thescrewybrewer.com/p/brewing-tools-formulas.html#srm)  
 
 ## Forums  
 + [Homebrew StackExchange](https://homebrew.stackexchange.com/)
 + [Homebrew Talk](https://www.homebrewtalk.com/)  
-
 
 ## Books  
 
@@ -32,7 +35,7 @@ by Chris White](http://a.co/3YeorUW)
 by Mike Karnowski](http://a.co/dvsezdZ)  
 + [Modern Homebrew Recipes: Exploring Styles and Contemporary Techniques by Gordon Strong ](http://a.co/9OeZBkC)  
 
-### Styles
+### Books on Beer Styles
 + [American Sour Beers by Michael Tonsmeire ](http://a.co/e5GxFQU)  
 + [Brewing Classic Styles: 80 Winning Recipes Anyone Can Brew 
 by Jamil Zainasheff](http://a.co/e6Q28O3)  
@@ -52,17 +55,40 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 + [Basic Brewing](http://www.basicbrewing.com/)  
 + [The Brewing Network](http://thebrewingnetwork.com/)  
 + [The Gnarly Gnome](http://www.thegnarlygnome.com/)  
-+ 
-
++ [Brülosophy](http://brulosophy.com/)  
 
 ## Videos  
 +  [The Craft Beer Channel](https://www.youtube.com/user/TheCraftBeerChannel) 
 +  [HBA Intro to Hombebrewing](https://www.homebrewersassociation.org/how-to-brew/beginner/videos/)  
 +  [Craft Beer & Brewing Videos](https://learn.beerandbrewing.com/)  
 
-
 ## Tools  
++ [Brew Software Compare](http://homebrewacademy.com/brewing-software-comparison/)  
 + [Brew Toad](https://www.brewtoad.com/)  
 + [Beersmith](http://beersmith.com/)  
 + [Brewgr](http://brewgr.com/)
 + [Brewer's Friend](https://www.brewersfriend.com/)
++ [Brew Target](http://www.brewtarget.org/)  
++ [Small Batch Brü](http://www.smallbatchbru.com/blog/brewcipher-spreadsheet-will-need-brew-day/)  
++ [Plato to SG Calculator](http://betatestbrewing.com/pages/plato_to_sg.html)
+
+## Ingredients  
++ [Listermann's - CINCINNATI](http://listermannbrewing.com/store/)  
+
+### Grain  
++ [Williams Brewing](https://www.williamsbrewing.com/Search.aspx?k=grain)  
++ [Northern Brewer](https://www.northernbrewer.com/)    
++ [Midwest Supplies](https://www.midwestsupplies.com/)  
++ [Homebrew Supply](https://www.homebrewsupply.com/)  
+
+### Hops  
++ [YCH Hops](https://ychhops.com/varieties)
+
+### Yeast  
++ [Wyeast](https://www.wyeastlab.com/)  
++ [White Labs](https://www.whitelabs.com/yeast-bank)
+
+### Water (testing)  
++ [Ward Laboratories, INC.](http://www.wardlab.com)  
+
+
