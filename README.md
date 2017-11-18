@@ -1,5 +1,5 @@
-# homebrew-resources
-Homebrew Resources I have used and rely on for learning, research, and my brew day.
+# About
+Homebrew resources I have used and rely on for learning, research, and my brew day.
 
 ## Links  
 + [AHA](https://www.homebrewersassociation.org/)  
