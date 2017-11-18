@@ -6,7 +6,8 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 + [Brewers Association](https://www.brewersassociation.org/)  
 + [How To Brew - John Palmer website](http://www.howtobrew.com/)  
 + [The Mad Fermentationist](https://www.themadfermentationist.com/)  
-
++ [Homebrew Academy](http://homebrewacademy.com/)  
++ 
 
 
 ## Books  
@@ -33,8 +34,10 @@ by Mitch Steele](http://a.co/7141nV2)
 + [Wild Brews: Beer Beyond the Influence of Brewer's Yeast 
 by Jeff Sparrow](http://a.co/0wIHlsK)  
 
-
-
+## Magazines  
++ [Brew Your Own](https://byo.com/)  
++ [Zymurgy](https://www.homebrewersassociation.org/free-zymurgy-issue/)  
++ [Craft Beer & Brewing Magazine](https://beerandbrewing.com/)
 
 ## Podcasts  
 + [Basic Brewing](http://www.basicbrewing.com/)  
@@ -42,5 +45,13 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 
 
 ## Videos  
-+ 
++  [The Craft Beer Channel](https://www.youtube.com/user/TheCraftBeerChannel) 
++  [HBA Intro to Hombebrewing](https://www.homebrewersassociation.org/how-to-brew/beginner/videos/)  
++  [Craft Beer & Brewing Videos](https://learn.beerandbrewing.com/)  
 
+
+## Tools  
++ [Brew Toad](https://www.brewtoad.com/)  
++ [Beersmith](http://beersmith.com/)  
++ [Brewgr](http://brewgr.com/)
++ 
