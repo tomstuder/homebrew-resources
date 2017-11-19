@@ -12,6 +12,7 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 + [Mr. Malty](http://www.mrmalty.com/)  
 + [Maltose Falcons](https://www.maltosefalcons.com/)  
 + [The Screwy Brewer](http://www.thescrewybrewer.com/p/brewing-tools-formulas.html#srm)  
++ [Craft Beer](https://www.craftbeer.com/)  
 
 ## Forums  
 + [Homebrew StackExchange](https://homebrew.stackexchange.com/)
