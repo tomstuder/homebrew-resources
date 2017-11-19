@@ -13,10 +13,13 @@ Homebrew resources I have used and rely on for learning, research, and my brew d
 + [Maltose Falcons](https://www.maltosefalcons.com/)  
 + [The Screwy Brewer](http://www.thescrewybrewer.com/p/brewing-tools-formulas.html#srm)  
 + [Craft Beer](https://www.craftbeer.com/)  
++ [Beer Advocate](https://www.beeradvocate.com/)  
 
 ## Forums  
 + [Homebrew StackExchange](https://homebrew.stackexchange.com/)
 + [Homebrew Talk](https://www.homebrewtalk.com/)  
++ [r/homebrewing ](https://www.reddit.com/r/Homebrewing/)  
++ [r/brewing](https://www.reddit.com/r/brewing/)  
 
 ## Books  
 
@@ -57,6 +60,8 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 + [The Brewing Network](http://thebrewingnetwork.com/)  
 + [The Gnarly Gnome](http://www.thegnarlygnome.com/)  
 + [Brülosophy](http://brulosophy.com/)  
++ [Beersmith Podcast](http://beersmith.com/blog/category/podcast/)  
++ [Cincy BrewCast](https://cincybrewcast.com/)  
 
 ## Videos  
 +  [The Craft Beer Channel](https://www.youtube.com/user/TheCraftBeerChannel) 
