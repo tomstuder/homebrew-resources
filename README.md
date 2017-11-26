@@ -77,9 +77,12 @@ by Jeff Sparrow](http://a.co/0wIHlsK)
 + [Brew Target](http://www.brewtarget.org/)  
 + [Small Batch Brü](http://www.smallbatchbru.com/blog/brewcipher-spreadsheet-will-need-brew-day/)  
 + [Plato to SG Calculator](http://betatestbrewing.com/pages/plato_to_sg.html)
+  
+## General
++ [Listermann's - CINCINNATI](http://listermannbrewing.com/store/)  
++ [Steve's Brew Shop](https://stevesbrewshop.com/)
 
 ## Ingredients  
-+ [Listermann's - CINCINNATI](http://listermannbrewing.com/store/)  
 
 ### Grain  
 + [Williams Brewing](https://www.williamsbrewing.com/Search.aspx?k=grain)  
